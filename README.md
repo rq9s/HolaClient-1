@@ -72,7 +72,7 @@ bash <(curl -s https://installer.holaclient.tech)
 ---
 
 ## 📝 Authors
-- **Sryden** | Making the base of HolaClient (Heliactyl but has alot of backdoors) until v1.6
+- **Sryden** | Made Heliactyl (The base of HolaClient)
 - [**CR072**](https://github.com/CR072) | Made HolaClient and manages the installer
 - [**ItzBenoitXD**](https://github.com/ItzBenoitXD) | Made HolaClient ~~Installer~~ & Docs
     
