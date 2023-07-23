@@ -67,7 +67,7 @@ Use our installer to install HolaClient in your VPS:<br>
 bash <(curl -s https://installer.holaclient.tech)
 ```
 
-... or refer to our docs made by @ItzBenoitXD for manual installation: https://docs.holaclient.tech
+... or refer to our docs made by [**@ItzBenoitXD**](https://github.com/ItzBenoitXD) for manual installation: https://docs.holaclient.tech
 
 ... or refer to this video install guide by Arctic Wolf (he did a great job explaining how to install): https://youtu.be/V4FnFKL3nGw
     
