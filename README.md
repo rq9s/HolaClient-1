@@ -74,7 +74,7 @@ bash <(curl -s https://installer.holaclient.tech)
 ## 📝 Authors
 - **Sryden** | Made Heliactyl (The base of HolaClient)
 - [**CR072**](https://github.com/CR072) | Made HolaClient and manages the installer
-- [**ItzBenoitXD**](https://github.com/ItzBenoitXD) | Made HolaClient ~~Installer~~ & Docs
+- [**ItzBenoitXD**](https://github.com/ItzBenoitXD) | Made HolaClient Docs and manages it
     
 ## ⚖️  Legal
 Please refer "LICENSE" and "CREDITS" files for better understability.
